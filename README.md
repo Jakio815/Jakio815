@@ -1,6 +1,6 @@
 Hi! I'm Dongha Kim. You may call me Jake (That's why my ID is Jakio). I'm a graduate Student in [HYU IoT Lab](https://hokeun.github.io/research/).
 
-### Blog
+### Blog (Under Construction)
 <a href="https://Jakio815.github.io/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog ?-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 
 ### Tools
