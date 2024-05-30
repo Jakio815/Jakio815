@@ -6,7 +6,7 @@
 Hi! I'm Dongha Kim. I'm a graduate student at Arizona State University studying Computer Science.
 
 ### Blog (Under Construction)
-<a href="https://Jakio815.github.io/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog ?-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
+<a href="https://Jakio815.github.io/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 
 ### Tools
 
